@@ -1,2 +1,1 @@
-# ANPR
-Automatic Number Plate Recognition using YOLO and open cv
+# Automatic-number-plate-recognition-ANPR-with-Yolov9-and-EasyOCR
